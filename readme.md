@@ -1,5 +1,5 @@
 ### Hello, I'm Freddie
-### tldr: Fullstack, Open Source, Datascience.
+tldr: Fullstack, Open Source, Datascience.
 
 # About
 ```
