@@ -1,19 +1,25 @@
-### Hello, I'm Freddie
-tldr: Fullstack, Open Source, Datascience.
+###  👋 Freddie here!
 
-# About
-```
-const ipsum = {
-    languages: "Python, C/C++, Java, JavaScript, PHP, SASS/SCSS",
+## Fullstack, Open Source, Datascience!
+
+<br />
+
+```javascript
+
+# Skills
+
+{
+    programming_languages: "Python, C/C++, Java, JavaScript, PHP, SASS/SCSS",
     technologies: "React.JS, Next.JS, Sanity, SAS",
     databases: "MongoDB, MySQL",
-    os: "Solus",
+    os: "Solus Budgie",
+    
     state: "ME";
 }
 ```
 
-# Portfolio
+<br />
 
-Having no portfolio is my portfolio *emoji!
+### Portfolio
 
-(Just kidding *emoji) - [Click here](/linktoportfolio.md)
+Having no portfolio is my portfolio. *Jkkkk* 🙃 [click here](/linktoportfolio.md)
