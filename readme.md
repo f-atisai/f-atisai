@@ -11,13 +11,13 @@
 # Skills
 
 {
-    programming_languages: "Python, C/C++, Java, JavaScript, PHP, SASS/SCSS",
-    technologies: "React.JS, Next.JS, Node.JS, Redux, SWR, Sanity, SAS",
-    databases: "MongoDB, MySQL",
-    architecture: "serverless, Single Page Applications, Progressive Web Apps",
-    os: "Linux/Solus",
+    programming_languages: "python, c/c++, java, javascript, php, sass/scss",
+    technologies: "react.js, next.js, express.js, node.js, redux, swr, sanity, mongoose, sas",
+    databases: "mongodb, mysql",
+    architecture: "serverless, single page applications, progressive web apps",
+    os: "linux/solus",
     
-    state: "ME";
+    state: "me";
 }
 ```
 
@@ -25,4 +25,4 @@
 ### Currently learning
 
 * Data science
-* Data analysis tools.
+* Excel for data analysis.
