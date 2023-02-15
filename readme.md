@@ -2,8 +2,6 @@
 
 ## Fullstack, Open Source, Datascience.
 
-<br />
-
 ### A little more about me...
 
 ```javascript
