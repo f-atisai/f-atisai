@@ -4,21 +4,25 @@
 
 <br />
 
+### A little more about me...
+
 ```javascript
 
 # Skills
 
 {
     programming_languages: "Python, C/C++, Java, JavaScript, PHP, SASS/SCSS",
-    technologies: "React.JS, Next.JS, Node.JS, Sanity, SAS",
+    technologies: "React.JS, Next.JS, Node.JS, Redux, SWR, Sanity, SAS",
     databases: "MongoDB, MySQL",
-    os: "Solus Budgie",
+    architecture: "serverless, Single Page Applications, Progressive Web Apps",
+    os: "Linux/Solus",
     
     state: "ME";
 }
 ```
 
 ---
-### Portfolio
+### Currently learning
 
-*Having no portfolio is my portfolio*. Jkkkk 🙃 [click here](/linktoportfolio.md)
+* Data science
+* Data analysis tools.
