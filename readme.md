@@ -41,3 +41,4 @@ Personal website and blog: https://f-atisai.github.io/#home
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=CC6699&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=A8B9CC&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Bulma-informational?style=flat&logo=C&logoColor=00D1B2&color=6aa6f8)
