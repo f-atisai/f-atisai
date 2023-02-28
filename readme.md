@@ -41,6 +41,6 @@ Personal website and blog: https://f-atisai.github.io/#home
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=CC6699&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Bulma-informational?style=flat&logo=bulma&logoColor=00D1B2&color=6aa6f8)
+![](https://img.shields.io/badge/Style-Bulma-informational?style=flat&logo=bulma&logoColor=00D1B2&color=6aa6f8)
 
 
