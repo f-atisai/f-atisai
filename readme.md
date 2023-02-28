@@ -37,7 +37,7 @@ Personal website and blog: https://f-atisai.github.io/#home
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=A8B9CC&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d0d0d0&labelColor=4EAA25)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=6aa6f8)
