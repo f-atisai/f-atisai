@@ -26,6 +26,9 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+## 📝 Blogs
+Personal website and blog: https://f-atisai.github.io/#home
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -34,7 +37,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-
-
-## 📝 Blogs
-Personal website and blog: https://f-atisai.github.io/
