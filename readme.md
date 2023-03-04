@@ -19,7 +19,7 @@ class SoftwareEngineer:
         self.state = "me"
 
     def say_hi(self):
-        print("Thanks for dropping by, this is my learning archive.")
+        print("Thanks for dropping by, hope you find my work interesting!")
 
 
 me = SoftwareEngineer()
