@@ -19,7 +19,7 @@ class SoftwareEngineer:
         self.state = "me"
 
     def speak(self):
-        print("Debugging: because software doesn't believe in New Year's resolutions.!")
+        print("Debugging: because software doesn't believe in New Year's resolutions!")
 
 
 me = SoftwareEngineer()
