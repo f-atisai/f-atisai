@@ -18,12 +18,12 @@ class SoftwareEngineer:
 
         self.state = "me"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find my work interesting!")
+    def speak(self):
+        print("Debugging: because software doesn't believe in New Year's resolutions.!")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.speak()
 ```
 
 ## 📝 Blogs
